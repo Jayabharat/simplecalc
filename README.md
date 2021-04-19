@@ -1,6 +1,6 @@
-# calculator
+# calculator #flutter
 
-A new Flutter application.
+Its a basic calculutor app made with Dart and it supports history tab to view the history.
 
 ## Getting Started
 
